@@ -34,9 +34,6 @@ ExpressBookReviews is a web application built using Express.js and Node.js that 
 ### Contributing
 Contributions are welcome! If you'd like to contribute to ExpressBookReviews, please fork the repository, make your changes, and submit a pull request.
 
-### Contact
-For questions or inquiries about the project, feel free to contact [Your Name](mailto:youremail@example.com).
-
 ### Acknowledgments
 - Special thanks to the creators of Express.js, Node.js, and other open-source technologies used in this project.
 - Inspiration for this project came from the need for a simple and user-friendly platform for sharing book reviews.
