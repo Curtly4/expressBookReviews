@@ -34,9 +34,6 @@ ExpressBookReviews is a web application built using Express.js and Node.js that 
 ### Contributing
 Contributions are welcome! If you'd like to contribute to ExpressBookReviews, please fork the repository, make your changes, and submit a pull request.
 
-### License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ### Contact
 For questions or inquiries about the project, feel free to contact [Your Name](mailto:youremail@example.com).
 
