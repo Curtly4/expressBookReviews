@@ -117,7 +117,6 @@ public_users.get("/author/:author", async function (req, res) {
 // Get all books based on title
 public_users.get("/title/:title", async function (req, res) {
   const title = req.params.title;
-  const isbn = req.params.isbn;
 
   // Simulate fetching a book by title asynchronously
   const getBookByTitleAsync = async (title) => {
